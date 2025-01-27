@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'SayMyName
-'https://github.com/TheGoldenPorkchop/SimpleCalculator
+'https://github.com/TheGoldenPorkchop/SayMyName
 
 Module SayMyName
 
