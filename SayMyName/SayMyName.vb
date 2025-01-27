@@ -1,4 +1,10 @@
-﻿Module SayMyName
+﻿'Angel Nava
+'Spring 2025
+'RCET2265
+'SayMyName
+'https://github.com/TheGoldenPorkchop/SimpleCalculator
+
+Module SayMyName
 
     Sub Main()
         Dim userName As String
